@@ -26,3 +26,7 @@
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/) | Dallas, USA |
 
 This list is derived from https://infosec-conferences.com/events-in-2018/
+
+| Name | Last Location |
+| --- | --- |
+| [Shakacon](https://www.shakacon.org/) | Honolulu, HI USA |
