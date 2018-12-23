@@ -24,7 +24,7 @@ This list is derived from https://infosec-conferences.com/events-in-2018/, https
 | [vBSDcon](https://www.vbsdcon.com/) | Reston, Virginia | TBD |
 | [AppSec USA](https://appsecusa.org/) | TBD, USA | TBD |
 | [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA | Jan 22-25 |
-| [ACM CCS](http://www.codaspy.org/) | Dallas, TX | |
+| [ACM CCS](http://www.codaspy.org/) | Dallas, TX | TBD |
 
 ### Semi-security Related Conferences
 | Name | Last Location | Date |
