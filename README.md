@@ -15,18 +15,15 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [Enigma](https://www.usenix.org/conference/enigma2019/) | Burlingame, CA | January 28-30 |
 | [Infiltrate](https://infiltratecon.com/) | Miami Beach, Fl | May 2-3 |
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin, TX | May 8-9 Training - May 10-11 Conference |
-| [SyScan360](https://www.syscan360.org/) | Seattle, WA | TBD |
-| [Black Hat USA](https://www.blackhat.com/) | Las Vegas, NV | TBD |
-| [BSides Las Vegas](https://www.bsideslv.org/) | Las Vegas, NV | TBD |
-| [Def Con](https://defcon.org/) | Las Vegas, NV | TBD |
+| [BSides Las Vegas](https://www.bsideslv.org/) | Las Vegas, NV | August 6-7 |
 | [vBSDcon](https://www.vbsdcon.com/) | Reston, Virginia | TBD |
 | [AppSec USA](https://appsecusa.org/) | TBD | TBD |
 | [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA | Jan 22-25 |
-| [ACM CCS](http://www.codaspy.org/) | Dallas, TX | TBD |
+| [ACM CCS](http://www.codaspy.org/) | Dallas, TX | March 25-27 |
 
 ### Semi-security Related Conferences
 | Name | Last Location |
 | --- | --- |
-| [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | 
-| [SCALE](https://socallinuxexpo.org/) | Pasadena, CA |
-| [RustConf](http://rustconf.com/) | Portland, OR | 
+| [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | May 31 - June 1 |
+| [SCALE](https://socallinuxexpo.org/) | Pasadena, CA | March 7-10 |
+| [RustConf](http://rustconf.com/) | Portland, OR | August 22-23 |
