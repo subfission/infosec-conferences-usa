@@ -1,8 +1,8 @@
-# Information Security Conferences
+# Information Security & I.T. Conferences
 ### U.S. based IT security conferences
-This list is derived from [infosec-conferences](https://infosec-conferences.com/events-in-2018/), [usenix](https://www.usenix.org/conferences), and other sources.
+This list is derived from [infosec-conferences](https://infosec-conferences.com/), [usenix](https://www.usenix.org/conferences), and other sources.
 
-| Name | Last Location | Date |
+| Name | Location | Date |
 | --- | --- | --- |
 | [Black Hat USA](https://www.blackhat.com/us-19/) | Las Vegas, NV | August 3-8 |
 | [Def Con](https://www.defcon.org/) | Las Vegas, NV | August 8-11 |
@@ -22,8 +22,13 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [ACM CCS](http://www.codaspy.org/) | Dallas, TX | March 25-27 |
 
 ### Semi-security Related Conferences
-| Name | Last Location |
-| --- | --- |
+| Name | Location | Date |
+| --- | --- | --- |
 | [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | May 31 - June 1 |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, CA | March 7-10 |
 | [RustConf](http://rustconf.com/) | Portland, OR | August 22-23 |
+
+### General Conferences
+| Name | Location | Date |
+| --- | --- | --- |
+| [Ohio Linux Fest](https://ohiolinux.org/) | Columbus, OH | TBD |
