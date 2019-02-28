@@ -4,19 +4,17 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 
 | Name | Last Location | Date |
 | --- | --- | --- |
-| [Black Hat USA](https://www.blackhat.com/) | Las Vegas, NV | TBD |
-| [Def Con](https://www.defcon.org/) | Las Vegas, NV | TBD |
+| [Black Hat USA](https://www.blackhat.com/us-19/) | Las Vegas, NV | August 3-8 |
+| [Def Con](https://www.defcon.org/) | Las Vegas, NV | August 8-11 |
 | [USENIX Enigma](https://www.usenix.org/conference/enigma2019) | Burlingame, CA | January 28-30 |
-| [USENIX WOOT](https://www.usenix.org/conference/woot19) | Santa Clara, CA | TBD |
+| [USENIX WOOT](https://www.usenix.org/conference/woot19) | Santa Clara, CA | August 12–13 |
 | [USENIX HotSec](https://www.usenix.org/conference/hotsec19/) | Santa Clara, CA |  Aug 13 |
-| [USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity19/) | Santa Clara, CA |  TBD |
-| [Def Con](https://www.defcon.org/) | Las Vegas, NV |  TBD |
-| [Shakacon](https://www.shakacon.org/) | Honolulu, HI | TBD |
+| [USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity19/) | Santa Clara, CA |  August 14–16 |
+| [Shakacon](https://www.shakacon.org/) | Honolulu, HI | July 11 & 12, 2018 *2019 TBD* |
 | [ShmooCon](http://shmoocon.org/) | California | Jan 18-20 |
-| [Enigma](https://www.usenix.org/conference/enigma2017/) | Washington D.C., WV | TBD |
-| [Infiltrate](https://infiltratecon.com/) | Florida | TBD |
-| [Norcon](http://norcon.info/) | Chico, CA | TBD |
-| [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin, TX | TBD |
+| [Enigma](https://www.usenix.org/conference/enigma2019/) | Burlingame, CA | January 28-30 |
+| [Infiltrate](https://infiltratecon.com/) | Miami Beach, Fl | May 2-3 |
+| [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin, TX | May 8-9 Training - May 10-11 Conference |
 | [SyScan360](https://www.syscan360.org/) | Seattle, WA | TBD |
 | [Black Hat USA](https://www.blackhat.com/) | Las Vegas, NV | TBD |
 | [BSides Las Vegas](https://www.bsideslv.org/) | Las Vegas, NV | TBD |
