@@ -3,7 +3,6 @@
 This list is derived from [infosec-conferences](https://infosec-conferences.com/), [usenix](https://www.usenix.org/conferences), and other sources.
 
 | Name | Location | Date |
-
 | --- | --- | --- |
 | [Black Hat USA](https://www.blackhat.com/us-19/) | Las Vegas, NV | August 3-8 |
 | [Def Con](https://www.defcon.org/) | Las Vegas, NV | August 8-11 |
@@ -25,7 +24,6 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 ### Semi-security Related Conferences
 
 | Name | Location | Date |
-
 | --- | --- | --- |
 | [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | May 31 - June 1 |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, CA | March 7-10 |
