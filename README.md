@@ -24,41 +24,41 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 
 | **Name** | **Location** | **Date** | **Notes** |
 | --- | --- | --- | --- |
-| BSidesLI | Glen Head, Long Island, NY | 01/26/2019 | |
-| BSidesPhilly | Philadelphia, PA | 02/01/2019 | |
-| BSidesTampa | Tampa, FL | 02/02/2019 | |
-| BSidesSeattle | Seattle, WA | 02/09/2019 | |
+| BSidesLI | Glen Head, Long Island, NY | January 26 2019 | |
+| BSidesPhilly | Philadelphia, PA | February 01 2019 | |
+| BSidesTampa | Tampa, FL | February 02 2019 | |
+| BSidesSeattle | Seattle, WA | February 09 2019 | |
 | BSidesHuntsville | Huntsville, AL | February 15 to 16, 2019  | |
 | BSidesSLC | Salt Lake City, WA | February 21 to 22, 2019  | |
-| BSidesCMH | Columbus, OH | 03/01/2019 | |
-| BSidesNoVA | Alexandria, VA | 03/02/2019 | |
-| BSidesTLH | Tallahassee, FL | 03/02/2019 | |
+| BSidesCMH | Columbus, OH | March 01 2019 | |
+| BSidesNoVA | Alexandria, VA | March 02 2019 | |
+| BSidesTLH | Tallahassee, FL | March 02 2019 | |
 | BSidesSF | San Francisco, CA | March 3 to 4, 2019  | |
-| BSidesROC | Rochester, NY | 03/23/2019 | |
+| BSidesROC | Rochester, NY | March 23 2019 | |
 | BSidesAustin | Austin, TX | March 28 to 29, 2019  | |
-| BSidesGreenville | Greenville, SC | 03/30/2019 | |
-| BSidesOrlando | Orlando, FL | 03/30/2019 | |
+| BSidesGreenville | Greenville, SC | March 30 2019 | |
+| BSidesOrlando | Orlando, FL | March 30 2019 | |
 | BSidesOK | Tulsa, OK | April 10 to 12, 2019  | |
-| BSidesNashville | Nashville, TN | 04/13/2019 | |
-| BSidesIowa | Des Moines, IA | 04/13/2019 | |
-| BSidesJohnstown | Johnstown, PA | 04/18/2019 | |
+| BSidesNashville | Nashville, TN | April 13 2019 | |
+| BSidesIowa | Des Moines, IA | April 13 2019 | |
+| BSidesJohnstown | Johnstown, PA | April 18 2019 | |
 | BSidesKC | Kansas City, MO | April 26 to 27, 2019  | |
 | BSidesCharm | Towson, Maryland | April 27 to 28, 2019  | |
-| BSidesKnoxville | Knoxville, TN | 05/03/2019 | |
-| BSidesATL | Atlanta, GA | 05/04/2019 | |
-| BSidesRGV | Rio Grande Valley, McAllen, TX | 05/11/2019 | |
-| BSidesDetroit | Detroit, MI | 05/18/2019 | |
-| BSidesNH | Manchester, NH | 05/18/2019 | |
-| BSidesSATX | San Antonio, TX | 06/08/2019 | |
-| BSidesCLE | Cleveland, OH | 06/22/2019 | |
+| BSidesKnoxville | Knoxville, TN | May 03 2019 | |
+| BSidesATL | Atlanta, GA | May 04 2019 | |
+| BSidesRGV | Rio Grande Valley, McAllen, TX | May 11 2019 | |
+| BSidesDetroit | Detroit, MI | May 18 2019 | |
+| BSidesNH | Manchester, NH | May 18 2019 | |
+| BSidesSATX | San Antonio, TX | June 08 2019 | |
+| BSidesCLE | Cleveland, OH | June 22 2019 | |
 | BSidesChicago | Chicago, IL | July 12 to 13, 2019  | |
-| BSidesSPFD  | Springfield, MO | 07/13/2019 | |
+| BSidesSPFD  | Springfield, MO | July 13 2019 | |
 | [BSidesLV](https://www.bsideslv.org/) | Las Vegas, NV | August 6 to 7, 2019  |  BSides Tenth Anniversary Party  |
-| BSidesSTL | St. Louis, MO | 09/21/2019 | |
+| BSidesSTL | St. Louis, MO | September 21 2019 | |
 | BSidesMSP   | Minneapolis, MN | September 26 to 28, 2019  | |
-| BSidesAugusta | Augusta, GA | 10/05/2019 | |
-| BSidesSacramento | Sacramento, CA | 10/05/2019 | |
-| BSidesTampa | Tampa, FL | 02/08/2020 | |
+| BSidesAugusta | Augusta, GA | October 05 2019 | |
+| BSidesSacramento | Sacramento, CA | October 05 2019 | |
+| BSidesTampa | Tampa, FL | February 08 2020 | |
 
 ### SANS Conferences
 [*SANS Official: Upcoming National Events, Summits, Regional Events & Vendor Briefs*](https://www.sans.org/vendor/events)
