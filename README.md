@@ -21,6 +21,12 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA | Jan 22-25 |
 | [ACM CCS](http://www.codaspy.org/) | Dallas, TX | March 25-27 |
 
+### SANS Conferences
+
+| Name | Location | Date | Solutions Expo Date |
+| --- | --- | --- | -- |
+| [ICS Security Summit & Training 2019](https://www.sans.org/event/ics-security-summit-2019/) | Orlando, FL | Mon, Mar 18 - Mon, Mar 25, 2019 | Mon, Mar 18 - Tues, Mar 19, 2019 |
+
 ### Semi-security Related Conferences
 
 | Name | Location | Date |
