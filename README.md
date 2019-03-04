@@ -4,6 +4,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 
 | **Name** | **Location** | **Date** |
 | --- | --- | --- |
+| [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA | Jan 22-25 |
 | [Black Hat USA](https://www.blackhat.com/us-19/) | Las Vegas, NV | August 3-8 |
 | [Def Con](https://www.defcon.org/) | Las Vegas, NV | August 8-11 |
 | [USENIX Enigma](https://www.usenix.org/conference/enigma2019) | Burlingame, CA | January 28-30 |
@@ -17,8 +18,12 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin, TX | May 8-9 Training - May 10-11 Conference |
 | [vBSDcon](https://www.vbsdcon.com/) | Reston, Virginia | TBD |
 | [AppSec USA](https://appsecusa.org/) | TBD | TBD |
-| [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA | Jan 22-25 |
 | [ACM CCS](http://www.codaspy.org/) | Dallas, TX | March 25-27 |
+| [Cybersecurity Summit](https://cybersecuritysummit.org/) | Minneapolis, MN | Oct 28-30 |
+| [Gartner Security & Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us) | National Harbor, MD | June 17-20 |
+| [Secure 360](https://secure360.org/secure360-twin-cities/) | Prior Lake, MN | May 14-15 |
+| [SIRAcon (Society of Information Risk Analysts' Annual conference)](https://societyinforisk.org/) | Cincinnati, Ohio | April 30 - May 2 |
+| [Metricon](http://www.securitymetrics.org/blog/2019/01/28/metricon-x-agenda/) | Jersey City, NJ | March 21st and 22nd |
 
 ### Security BSides USA Conferences
 
