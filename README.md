@@ -25,12 +25,18 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 
 | Name | Location | Date |
 | --- | --- | --- |
-| [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | May 31 - June 1 |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, CA | March 7-10 |
 | [RustConf](http://rustconf.com/) | Portland, OR | August 22-23 |
 
-### General Conferences
+### Linux Fest
 
 | Name | Location | Date |
 | --- | --- | --- |
 | [Ohio Linux Fest](https://ohiolinux.org/) | Columbus, OH | TBD |
+| [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | May 31 - June 1 |
+
+### General I.T. Conferences
+
+| Name | Location | Date |
+| --- | --- | --- |
+| [LOCALHOST](https://127.0.0.1) | LOCATION | DATE |
