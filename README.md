@@ -21,6 +21,8 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA | Jan 22-25 |
 | [ACM CCS](http://www.codaspy.org/) | Dallas, TX | March 25-27 |
 
+### Security BSides USA Conferences
+
 | **Name** | **Location** | **Date** | **Notes** |
 | --- | --- | --- | --- |
 | BSidesLI  | Glen Head, Long Island, NY | 01/26/2019 |  |
