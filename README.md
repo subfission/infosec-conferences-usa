@@ -2,7 +2,7 @@
 ### U.S. based IT security conferences
 This list is derived from [infosec-conferences](https://infosec-conferences.com/), [usenix](https://www.usenix.org/conferences), and other sources.
 
-| Name | Location | Date |
+| **Name** | **Location** | **Date** |
 | --- | --- | --- |
 | [Black Hat USA](https://www.blackhat.com/us-19/) | Las Vegas, NV | August 3-8 |
 | [Def Con](https://www.defcon.org/) | Las Vegas, NV | August 8-11 |
@@ -22,9 +22,9 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [ACM CCS](http://www.codaspy.org/) | Dallas, TX | March 25-27 |
 
 ### SANS Conferences
-#### [SANS Official: Upcoming National Events, Summits, Regional Events & Vendor Briefs](https://www.sans.org/vendor/events)
+[*SANS Official: Upcoming National Events, Summits, Regional Events & Vendor Briefs*](https://www.sans.org/vendor/events)
 
-| Name | Location | Event Type | Date | Solutions Expo Date |
+| **Name** | **Location** | **Event Type** | **Date** | **Solutions Expo Date** |
 | --- | --- | --- | --- | --- |
 | [ICS Security Summit & Training 2019](https://www.sans.org/event/ics-security-summit-2019/) | Orlando, FL | Summit & Training | Mon, Mar 18 - Mon, Mar 25, 2019 | Mon, Mar 18 - Tues, Mar 19, 2019 |
 | [SANS 2019](https://www.sans.org/event/sans-2019) | Orlando, FL | National | Mon, Apr 1 - Mon, Apr 8, 2019 | Wed, Apr 3, 2019 |
@@ -44,20 +44,20 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 
 ### Semi-security Related Conferences
 
-| Name | Location | Date |
+| **Name** | **Location** | **Date** |
 | --- | --- | --- |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, CA | March 7-10 |
 | [RustConf](http://rustconf.com/) | Portland, OR | August 22-23 |
 
 ### Linux Fest
 
-| Name | Location | Date |
+| **Name** | **Location** | **Date** |
 | --- | --- | --- |
 | [Ohio Linux Fest](https://ohiolinux.org/) | Columbus, OH | TBD |
 | [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | May 31 - June 1 |
 
 ### General I.T. Conferences
 
-| Name | Location | Date |
+| **Name** | **Location** | **Date** |
 | --- | --- | --- |
 | [LOCALHOST](https://127.0.0.1) | LOCATION | DATE |
