@@ -22,6 +22,9 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [ACM CCS](http://www.codaspy.org/) | Dallas, TX | March 25-27 |
 
 ### SANS Conferences
+## [SANS Official: 
+Upcoming National Events, Summits, Regional Events & Vendor Briefs
+](https://www.sans.org/vendor/events)
 
 | Name | Location | Event Type | Date | Solutions Expo Date |
 | --- | --- | --- | --- | --- |
