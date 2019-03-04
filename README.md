@@ -26,19 +26,19 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | Name | Location | Event Type | Date | Solutions Expo Date |
 | --- | --- | --- | --- | --- |
 | [ICS Security Summit & Training 2019](https://www.sans.org/event/ics-security-summit-2019/) | Orlando, FL | Summit & Training | Mon, Mar 18 - Mon, Mar 25, 2019 | Mon, Mar 18 - Tues, Mar 19, 2019 |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
-| []() | Orlando, FL |  |  |  |
+| [SANS 2019](https://www.sans.org/event/sans-2019) | Orlando, FL | National | Mon, Apr 1 - Mon, Apr 8, 2019 | Wed, Apr 3, 2019 |
+| [Cloud Security Summit & Training 2019](https://www.sans.org/event/cloud-security-summit-2019) | San Jose, CA | Summit & Training | Mon, Apr 29 - Mon, May 6, 2019 | Mon, Apr 29 - Tue, Apr 30, 2019 |
+| [SANS Security West 2019](https://www.sans.org/event/security-west-2019) | San Diego, CA | National | Thu, May 9 - Thu, May 16, 2019 | Fri, May 10, 2019 |
+| Purple Team Briefing | Austin, TX | Vendor Brief | Thu, June 6, 2019 |  |
+| [SANSFIRE 2019](https://www.sans.org/event/sansfire-2019) | Washington, D.C. | National | Sat, Jun 15 - Sat, Jun 22, 2019 | Wed, Jun 19, 2019 |
+| [Security Operations Summit & Training 2019](https://www.sans.org/event/security-operations-summit-2019) | New Orleans, LA | Summit & Training | Jun 24 - Mon, Jul 1, 2019 | Mon, Jun 24 - Tue, Jun 25, 2019 |
+| Oil & Gas Briefing | Houston, TX | Vendor Brief | Thu, July 18, 2019 |  |
+| [Digital Forensics & Incident Response Summit & Training 2019](https://www.sans.org/event/digital-forensics-summit-2019) | Austin, TX | Summit & Training | Thu, Jul 25 - Thu, Aug 1, 2019 | Thu, Jul 25 - Fri, Jul 26, 2019 |
+| SANS Network Security 2019 | Las Vegas, NV | National | Sun, Sep 8 - Sun, 15, 2019 | Wed, Sep 11, 2019 |
+| Vulnerability Management & Endpoint Security Briefing | Boston, MA | Vendor Brief |  |  |
+| [Threat Hunting & Incident Response Summit](https://www.sans.org/event/threat-hunting-and-incident-response-summit-2019) | New Orleans, LA | Summit & Training | Mon, Sep 30 - Mon, Oct 7, 2019 | Mon, Sep 30 - Tue, Oct 1, 2019 |
+| Cloud Security Briefing | Seattle, WA | Vendor Brief | Fri, Oct 18, 2019 |  |
+| Dark Web Briefing | Boston, MA | Vendor Brief | Fri, Nov 8, 2019 |  |
 | SANS Cyber Defense Initiative ® 2019 | Washington, D.C. | National | Thu, Dec 12 - Thu, Dec 19, 2019 | Tue, Dec 17, 2019 |
 
 ### Semi-security Related Conferences
