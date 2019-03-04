@@ -35,7 +35,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | Oil & Gas Briefing | Houston, TX | Vendor Brief | Thu, July 18, 2019 |  |
 | [Digital Forensics & Incident Response Summit & Training 2019](https://www.sans.org/event/digital-forensics-summit-2019) | Austin, TX | Summit & Training | Thu, Jul 25 - Thu, Aug 1, 2019 | Thu, Jul 25 - Fri, Jul 26, 2019 |
 | SANS Network Security 2019 | Las Vegas, NV | National | Sun, Sep 8 - Sun, 15, 2019 | Wed, Sep 11, 2019 |
-| Vulnerability Management & Endpoint Security Briefing | Boston, MA | Vendor Brief |  |  |
+| Vulnerability Management & Endpoint Security Briefing | Boston, MA | Vendor Brief | Fri, Sept 27, 2019 |  |
 | [Threat Hunting & Incident Response Summit](https://www.sans.org/event/threat-hunting-and-incident-response-summit-2019) | New Orleans, LA | Summit & Training | Mon, Sep 30 - Mon, Oct 7, 2019 | Mon, Sep 30 - Tue, Oct 1, 2019 |
 | Cloud Security Briefing | Seattle, WA | Vendor Brief | Fri, Oct 18, 2019 |  |
 | Dark Web Briefing | Boston, MA | Vendor Brief | Fri, Nov 8, 2019 |  |
