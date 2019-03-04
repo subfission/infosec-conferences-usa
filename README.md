@@ -23,9 +23,23 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 
 ### SANS Conferences
 
-| Name | Location | Date | Solutions Expo Date |
-| --- | --- | --- | -- |
-| [ICS Security Summit & Training 2019](https://www.sans.org/event/ics-security-summit-2019/) | Orlando, FL | Mon, Mar 18 - Mon, Mar 25, 2019 | Mon, Mar 18 - Tues, Mar 19, 2019 |
+| Name | Location | Event Type | Date | Solutions Expo Date |
+| --- | --- | --- | --- | --- |
+| [ICS Security Summit & Training 2019](https://www.sans.org/event/ics-security-summit-2019/) | Orlando, FL | Summit & Training | Mon, Mar 18 - Mon, Mar 25, 2019 | Mon, Mar 18 - Tues, Mar 19, 2019 |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| []() | Orlando, FL |  |  |  |
+| SANS Cyber Defense Initiative ® 2019 | Washington, D.C. | National | Thu, Dec 12 - Thu, Dec 19, 2019 | Tue, Dec 17, 2019 |
 
 ### Semi-security Related Conferences
 
