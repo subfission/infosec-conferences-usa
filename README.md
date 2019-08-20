@@ -1,5 +1,27 @@
-# Information Security & I.T. Conferences
-### U.S. based IT security conferences
+# Information Security, I.T. Conferences & Certs
+
+## CERTS
+
+### I know some of these aren't exactly I.T./Security certs but they can be useful
+
+| **Name** | **Program/System/Tool** | **Cost** | **Prerequisite** |
+| --- | --- | --- | --- |
+| [Solarwinds SCP](https://www.solarwinds.com/certification) | SolarWinds Certified Professional Program | $0 ? | |
+| [Six Sigma White Belt](https://www.sixsigmaonline.org/six-sigma-white-belt-certification/) | Six Sigma | $0 | |
+| [Google Analytics Cert](https://analytics.google.com/analytics/academy/) | Google | $0 | |
+| [Fundementals of Digital Marketing](https://learndigital.withgoogle.com/digitalunlocked/courses) | Google | $0 | |
+| [Salesforce Trailhead](https://trailhead.salesforce.com/en/home) | Salesforce | $0 | |
+| [Microsoft Office Certifications](https://www.microsoft.com/en-us/learning/office-certification.aspx) | Microsoft | $0 | |
+| [Exam MS-900: Microsoft 365 Fundamentals](https://www.microsoft.com/en-us/learning/microsoft-365-fundamentals.aspx) | Microsoft | $99 | |
+| [Exam MS-500: Microsoft 365 Security Administration](https://www.microsoft.com/en-us/learning/m365-security-administrator.aspx) | Microsoft | $165 | MS-900 |
+| [First Aid: BFA / CPR](http://www.firstaidweb.com/) | First Aid | $0 (cert download might cost $$) | |
+| [GOVT: FEMA Training's](https://training.fema.gov/is/crslist.aspx) | FEMA | $0 | |
+| [HTML, CSS, JavaScript, Python, jQuery, SQL, PHP, Bootstrap, XML](https://www.w3schools.com/cert/default.asp) | w3schools | $95 (Each) | |
+| [Varonis Certified Administrator: DatAdvantage](https://customeredu.varonis.com/learn/public/learning_plan/view/11/VaronisCertifiedAdministratorDatAdvantage) | Varonis | $0 | |
+| [Free Code Camp: Learn to code for free](https://www.freecodecamp.org/) | P/S/T | $0 | |
+
+## U.S. based IT security conferences
+
 This list is derived from [infosec-conferences](https://infosec-conferences.com/), [usenix](https://www.usenix.org/conferences), and other sources.
 
 | **Name** | **Location** | **Date** |
@@ -25,7 +47,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [SIRAcon (Society of Information Risk Analysts' Annual conference)](https://societyinforisk.org/) | Cincinnati, Ohio | April 30 - May 2 |
 | [Metricon](http://www.securitymetrics.org/blog/2019/01/28/metricon-x-agenda/) | Jersey City, NJ | March 21st and 22nd |
 
-### Security BSides USA Conferences
+## Security BSides USA Conferences
 
 | **Name** | **Location** | **Date** | **Notes** |
 | --- | --- | --- | --- |
@@ -65,7 +87,8 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | BSidesSacramento | Sacramento, CA | October 05 2019 | |
 | BSidesTampa | Tampa, FL | February 08 2020 | |
 
-### SANS Conferences
+## SANS Conferences
+
 [*SANS Official: Upcoming National Events, Summits, Regional Events & Vendor Briefs*](https://www.sans.org/vendor/events)
 
 | **Name** | **Location** | **Event Type** | **Date** | **Solutions Expo Date** |
@@ -86,21 +109,21 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | Dark Web Briefing | Boston, MA | Vendor Brief | Fri, Nov 8, 2019 |  |
 | SANS Cyber Defense Initiative ® 2019 | Washington, D.C. | National | Thu, Dec 12 - Thu, Dec 19, 2019 | Tue, Dec 17, 2019 |
 
-### Semi-security Related Conferences
+## Semi-security Related Conferences
 
 | **Name** | **Location** | **Date** |
 | --- | --- | --- |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, CA | March 7-10 |
 | [RustConf](http://rustconf.com/) | Portland, OR | August 22-23 |
 
-### Linux Fest
+## Linux Fest
 
 | **Name** | **Location** | **Date** |
 | --- | --- | --- |
 | [Ohio Linux Fest](https://ohiolinux.org/) | Columbus, OH | TBD |
 | [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | May 31 - June 1 |
 
-### General I.T. Conferences
+## General I.T. Conferences
 
 | **Name** | **Location** | **Date** |
 | --- | --- | --- |
