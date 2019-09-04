@@ -38,6 +38,12 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [Enigma](https://www.usenix.org/conference/enigma2019/) | Burlingame, CA | January 28-30 |
 | [Infiltrate](https://infiltratecon.com/) | Miami Beach, Fl | May 2-3 |
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin, TX | May 8-9 Training - May 10-11 Conference |
+| [Norcon](http://norcon.info/) | Chico, CA | TBD |
+| [Interop19](https://www.interop.com/) | Las Vegas, NV | May 23 |
+| [SyScan360](https://www.syscan360.org/) | Seattle, WA | TBD |
+| [Black Hat USA](https://www.blackhat.com/) | Las Vegas, NV | TBD |
+| [BSides Las Vegas](https://www.bsideslv.org/) | Las Vegas, NV | TBD |
+| [Def Con](https://defcon.org/) | Las Vegas, NV | TBD |
 | [vBSDcon](https://www.vbsdcon.com/) | Reston, Virginia | TBD |
 | [AppSec USA](https://appsecusa.org/) | TBD | TBD |
 | [ACM CCS](http://www.codaspy.org/) | Dallas, TX | March 25-27 |
