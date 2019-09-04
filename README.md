@@ -46,6 +46,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [Secure 360](https://secure360.org/secure360-twin-cities/) | Prior Lake, MN | May 14-15 |
 | [SIRAcon (Society of Information Risk Analysts' Annual conference)](https://societyinforisk.org/) | Cincinnati, Ohio | April 30 - May 2 |
 | [Metricon](http://www.securitymetrics.org/blog/2019/01/28/metricon-x-agenda/) | Jersey City, NJ | March 21st and 22nd |
+| [(ISC)² Security Congress](https://congress.isc2.org/events/-isc-security-congress-2019/event-summary-f1be4e92a1b54d92acdb1b8007fe91cf.aspx) | Orlando, FL | October 28-30 |
 
 ## Security BSides USA Conferences
 
