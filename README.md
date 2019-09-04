@@ -6,12 +6,12 @@
 
 | **Name** | **Program/System/Tool** | **Cost** | **Prerequisite** |
 | --- | --- | --- | --- |
-| [Solarwinds SCP](https://www.solarwinds.com/certification) | SolarWinds Certified Professional Program | $0 ? | |
+| [Solarwinds SCP](https://www.solarwinds.com/certification) | SolarWinds Certified Professional Program | $0 ?? | |
 | [Six Sigma White Belt](https://www.sixsigmaonline.org/six-sigma-white-belt-certification/) | Six Sigma | $0 | |
 | [Google Analytics Cert](https://analytics.google.com/analytics/academy/) | Google | $0 | |
 | [Fundementals of Digital Marketing](https://learndigital.withgoogle.com/digitalunlocked/courses) | Google | $0 | |
 | [Salesforce Trailhead](https://trailhead.salesforce.com/en/home) | Salesforce | $0 | |
-| [Microsoft Office Certifications](https://www.microsoft.com/en-us/learning/office-certification.aspx) | Microsoft | $0 | |
+| [Microsoft Office Certifications](https://www.microsoft.com/en-us/learning/office-certification.aspx) | Microsoft | $0 ?? | |
 | [Exam MS-900: Microsoft 365 Fundamentals](https://www.microsoft.com/en-us/learning/microsoft-365-fundamentals.aspx) | Microsoft | $99 | |
 | [Exam MS-500: Microsoft 365 Security Administration](https://www.microsoft.com/en-us/learning/m365-security-administrator.aspx) | Microsoft | $165 | MS-900 |
 | [First Aid: BFA / CPR](http://www.firstaidweb.com/) | First Aid | $0 (cert download might cost $$) | |
@@ -87,27 +87,86 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | BSidesSacramento | Sacramento, CA | October 05 2019 | |
 | BSidesTampa | Tampa, FL | February 08 2020 | |
 
-## SANS Conferences
+## SANS Conferences // Training
 
-[*SANS Official: Upcoming National Events, Summits, Regional Events & Vendor Briefs*](https://www.sans.org/vendor/events)
+[*SANS Official: SANS information security courses*](https://www.sans.org/information-security-training/by-location/north-america)
 
-| **Name** | **Location** | **Event Type** | **Date** | **Solutions Expo Date** |
-| --- | --- | --- | --- | --- |
-| [ICS Security Summit & Training 2019](https://www.sans.org/event/ics-security-summit-2019/) | Orlando, FL | Summit & Training | Mon, Mar 18 - Mon, Mar 25, 2019 | Mon, Mar 18 - Tues, Mar 19, 2019 |
-| [SANS 2019](https://www.sans.org/event/sans-2019) | Orlando, FL | National | Mon, Apr 1 - Mon, Apr 8, 2019 | Wed, Apr 3, 2019 |
-| [Cloud Security Summit & Training 2019](https://www.sans.org/event/cloud-security-summit-2019) | San Jose, CA | Summit & Training | Mon, Apr 29 - Mon, May 6, 2019 | Mon, Apr 29 - Tue, Apr 30, 2019 |
-| [SANS Security West 2019](https://www.sans.org/event/security-west-2019) | San Diego, CA | National | Thu, May 9 - Thu, May 16, 2019 | Fri, May 10, 2019 |
-| Purple Team Briefing | Austin, TX | Vendor Brief | Thu, June 6, 2019 |  |
-| [SANSFIRE 2019](https://www.sans.org/event/sansfire-2019) | Washington, D.C. | National | Sat, Jun 15 - Sat, Jun 22, 2019 | Wed, Jun 19, 2019 |
-| [Security Operations Summit & Training 2019](https://www.sans.org/event/security-operations-summit-2019) | New Orleans, LA | Summit & Training | Jun 24 - Mon, Jul 1, 2019 | Mon, Jun 24 - Tue, Jun 25, 2019 |
-| Oil & Gas Briefing | Houston, TX | Vendor Brief | Thu, July 18, 2019 |  |
-| [Digital Forensics & Incident Response Summit & Training 2019](https://www.sans.org/event/digital-forensics-summit-2019) | Austin, TX | Summit & Training | Thu, Jul 25 - Thu, Aug 1, 2019 | Thu, Jul 25 - Fri, Jul 26, 2019 |
-| SANS Network Security 2019 | Las Vegas, NV | National | Sun, Sep 8 - Sun, 15, 2019 | Wed, Sep 11, 2019 |
-| Vulnerability Management & Endpoint Security Briefing | Boston, MA | Vendor Brief | Fri, Sept 27, 2019 |  |
-| [Threat Hunting & Incident Response Summit](https://www.sans.org/event/threat-hunting-and-incident-response-summit-2019) | New Orleans, LA | Summit & Training | Mon, Sep 30 - Mon, Oct 7, 2019 | Mon, Sep 30 - Tue, Oct 1, 2019 |
-| Cloud Security Briefing | Seattle, WA | Vendor Brief | Fri, Oct 18, 2019 |  |
-| Dark Web Briefing | Boston, MA | Vendor Brief | Fri, Nov 8, 2019 |  |
-| SANS Cyber Defense Initiative ® 2019 | Washington, D.C. | National | Thu, Dec 12 - Thu, Dec 19, 2019 | Tue, Dec 17, 2019 |
+| **Title** | **Location** | **Dates** |
+| --- | --- | --- |
+| SANS Network Security 2019 | Las Vegas, NV, US | Sep 09, 2019 - Sep 16, 2019 |
+| Oil & Gas Cybersecurity Summit & Training 2019 | Houston, TX, US | Sep 16, 2019 - Sep 22, 2019 |
+| SANS Raleigh 2019 | Raleigh, NC, US | Sep 16, 2019 - Sep 21, 2019 |
+| SANS Dallas Fall 2019 | Dallas, TX, US | Sep 23, 2019 - Sep 28, 2019 |
+| SANS San Francisco Fall 2019 | San Francisco, CA, US | Sep 23, 2019 - Sep 28, 2019 |
+| SANS Northern VA Fall- Reston 2019 | Reston, VA, US | Sep 30, 2019 - Oct 05, 2019 |
+| Threat Hunting & Incident Response Summit & Training 2019 | New Orleans, LA, US | Sep 30, 2019 - Oct 07, 2019 |
+| SIEM Summit & Training 2019 | Chicago, IL, US | Oct 07, 2019 - Oct 14, 2019 |
+| SANS Baltimore Fall 2019 | Baltimore, MD, US | Oct 07, 2019 - Oct 12, 2019 |
+| SANS San Diego 2019 | San Diego, CA, US | Oct 07, 2019 - Oct 12, 2019 |
+| SANS Denver 2019 | Denver, CO, US | Oct 14, 2019 - Oct 19, 2019 |
+| SANS Seattle Fall 2019 | Seattle, WA, US | Oct 14, 2019 - Oct 19, 2019 |
+| Purple Team Summit & Training 2019 | Las Colinas, TX, US | Oct 21, 2019 - Oct 28, 2019 |
+| SANS Santa Monica 2019 | Santa Monica, CA, US | Oct 21, 2019 - Oct 26, 2019 |
+| SANS Training at Wild West Hackin Fest | Deadwood, SD, US | Oct 22, 2019 - Oct 23, 2019 |
+| SANS Orlando 2019 | Orlando, FL, US | Oct 28, 2019 - Nov 02, 2019 |
+| SANS Houston 2019 | Houston, TX, US | Oct 28, 2019 - Nov 02, 2019 |
+| SANS DFIRCON 2019 | Coral Gables, FL, US | Nov 04, 2019 - Nov 09, 2019 |
+| Cloud & DevOps Security Summit & Training 2019 | Denver, CO, US | Nov 04, 2019 - Nov 11, 2019 |
+| SANS Atlanta Fall 2019 | Atlanta, GA, US | Nov 18, 2019 - Nov 23, 2019 |
+| Pen Test HackFest Summit & Training 2019 | Bethesda, MD, US | Nov 18, 2019 - Nov 25, 2019 |
+| SANS Austin 2019 | Austin, TX, US | Nov 18, 2019 - Nov 23, 2019 |
+| SANS Nashville 2019 | Nashville, TN, US | Dec 02, 2019 - Dec 07, 2019 |
+| SANS San Francisco Winter 2019 | San Francisco, CA, US | Dec 02, 2019 - Dec 07, 2019 |
+| SANS Cyber Defense Initiative2019 | Washington, DC, US | Dec 10, 2019 - Dec 17, 2019 |
+| SANS Austin Winter 2020 | Austin, TX, US | Jan 06, 2020 - Jan 11, 2020 |
+| SANS Miami 2020 | Miami, FL, US | Jan 13, 2020 - Jan 18, 2020 |
+| Cyber Threat Intelligence Summit & Training 2020 | Arlington, VA, US | Jan 20, 2020 - Jan 27, 2020 |
+| SANS Anaheim 2020 | Anaheim, CA, US | Jan 20, 2020 - Jan 25, 2020 |
+| SANS Las Vegas 2020 | Las Vegas, NV, US | Jan 27, 2020 - Feb 01, 2020 |
+| SANS San Francisco East Bay 2020 | Emeryville, CA, US | Jan 27, 2020 - Feb 01, 2020 |
+| SANS Security East 2020 | New Orleans, LA, US | Feb 01, 2020 - Feb 08, 2020 |
+| SANS Northern VA - Fairfax 2020 | Fairfax, VA, US | Feb 10, 2020 - Feb 15, 2020 |
+| SANS New York City Winter 2020 | New York City, NY, US | Feb 10, 2020 - Feb 15, 2020 |
+| SANS Scottsdale 2020 | Scottsdale, AZ, US | Feb 17, 2020 - Feb 22, 2020 |
+| SANS San Diego 2020 | San Diego, CA, US | Feb 17, 2020 - Feb 22, 2020 |
+| Open-Source Intelligence Summit & Training 2020 | Alexandria, VA, US | Feb 18, 2020 - Feb 24, 2020 |
+| SANS Jacksonville 2020 | Jacksonville, FL, US | Feb 24, 2020 - Feb 29, 2020 |
+| Blue Team Summit & Training 2020 | Louisville, KY, US | Mar 02, 2020 - Mar 09, 2020 |
+| SANS Northern VA - Reston Spring 2020 | Reston, VA, US | Mar 02, 2020 - Mar 07, 2020 |
+| ICS Security Summit & Training 2020 | Orlando, FL, US | Mar 02, 2020 - Mar 09, 2020 |
+| SANS St. Louis 2020 | St. Louis, MO, US | Mar 08, 2020 - Mar 13, 2020 |
+| SANS Dallas 2020 | Dallas, TX, US | Mar 09, 2020 - Mar 14, 2020 |
+| SANS Norfolk 2020 | Norfolk, VA, US | Mar 16, 2020 - Mar 21, 2020 |
+| SANS San Francisco Spring 2020 | San Francisco, CA, US | Mar 16, 2020 - Mar 27, 2020 |
+| SANS Seattle Spring 2020 | Seattle, WA, US | Mar 23, 2020 - Mar 28, 2020 |
+| SANS Philadelphia 2020 | Philadelphia, PA, US | Mar 30, 2020 - Apr 04, 2020 |
+| SANS 2020 | Orlando, FL, US | Apr 03, 2020 - Apr 10, 2020 |
+| SANS Bethesda 2020 | Bethesda, MD, US | Apr 14, 2020 - Apr 19, 2020 |
+| SANS Minneapolis 2020 | Minneapolis, MN, US | Apr 14, 2020 - Apr 19, 2020 |
+| SANS Boston Spring 2020 | Boston, MA, US | Apr 20, 2020 - Apr 25, 2020 |
+| SANS Baltimore Spring 2020 | Baltimore, MD, US | Apr 27, 2020 - May 02, 2020 |
+| SANS Pen Test Austin 2020 | Austin, TX, US | Apr 27, 2020 - May 02, 2020 |
+| SANS Security West 2020 | San Diego, CA, US | May 06, 2020 - May 13, 2020 |
+| SANS Northern Virginia- Alexandria 2020 | Alexandria, VA, US | May 17, 2020 - May 22, 2020 |
+| SANS San Antonio 2020 | San Antonio, TX, US | May 17, 2020 - May 22, 2020 |
+| SANS Northern VA - Arlington, Ballston 2020 | Alexandria, VA, US | May 17, 2020 - May 22, 2020 |
+| SANS Atlanta Spring 2020 | Atlanta, GA, US | May 26, 2020 - May 31, 2020 |
+| SANS Nashville Spring 2020 | Nashville, TN, US | May 26, 2020 - May 31, 2020 |
+| Cloud Security Summit & Training 2020 | Frisco, TX, US | May 27, 2020 - Jun 03, 2020 |
+| SANS Chicago Spring 2020 | Chicago, IL, US | Jun 01, 2020 - Jun 06, 2020 |
+| SANS New Orleans 2020 | New Orleans, LA, US | Jun 08, 2020 - Jun 13, 2020 |
+| SANS Las Vegas Spring 2020 | Las Vegas, NV, US | Jun 08, 2020 - Jun 13, 2020 |
+| SANSFIRE 2020 | Washington, DC, US | Jun 13, 2020 - Jun 20, 2020 |
+| SANS Pittsburgh 2020 | Pittsburgh, PA, US | Jun 22, 2020 - Jun 27, 2020 |
+| Security Operations Summit and Training 2020 | New Orleans, LA, US | Jun 23, 2020 - Jun 30, 2020 |
+| SANS Louisville 2020 | Louisville, KY, US | Jul 06, 2020 - Jul 11, 2020 |
+| SANS Columbia 2020 | Columbia, MD, US | Jul 20, 2020 - Jul 25, 2020 |
+| SANS Rocky Mountain 2020 | Denver, CO, US | Jul 20, 2020 - Jul 25, 2020 |
+| SANS Los Angeles 2020 | Los Angeles, CA, US | Aug 03, 2020 - Aug 08, 2020 |
+| SANS Crystal City 2020 | Arlington, VA, US | Aug 10, 2020 - Aug 15, 2020 |
+| SANS Capital City 2020 | Washington, DC, DC, US | Aug 17, 2020 - Aug 22, 2020 |
+| SANS Virginia Beach 2020 | Virginia Beach, VA, US | Aug 24, 2020 - Sep 04, 2020 |
+| SANS San Francisco Summer 2020 | San Francisco, CA, US | Aug 24, 2020 - Aug 29, 2020 |
 
 ## Semi-security Related Conferences
 
