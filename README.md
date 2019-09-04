@@ -28,6 +28,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | --- | --- | --- |
 | [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA | Jan 22-25 |
 | [Black Hat USA](https://www.blackhat.com/us-19/) | Las Vegas, NV | August 3-8 |
+| [DakotaCon](https://dakotacon.org) | Madison, SD | March 27-29 |
 | [Def Con](https://www.defcon.org/) | Las Vegas, NV | August 8-11 |
 | [USENIX Enigma](https://www.usenix.org/conference/enigma2019) | Burlingame, CA | January 28-30 |
 | [USENIX WOOT](https://www.usenix.org/conference/woot19) | Santa Clara, CA | August 12–13 |
