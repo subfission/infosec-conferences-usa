@@ -3,8 +3,8 @@
 
 This list is derived from [infosec-conferences](https://infosec-conferences.com/), [usenix](https://www.usenix.org/conferences), and other sources.
 
-| **Name** | **Last Known Location** |
-| --- | --- | --- |
+| **Name** | **Last Known Location** | 
+| --- | --- | 
 | [ACM CCS](http://www.codaspy.org/) | Dallas, TX | 
 | [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA | 
 | [AppSec USA](https://appsecusa.org/) | Washington, D.C. |
