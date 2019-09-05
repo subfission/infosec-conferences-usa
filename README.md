@@ -20,7 +20,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [(ISC)² Security Congress](https://congress.isc2.org/events/-isc-security-congress-2019/event-summary-f1be4e92a1b54d92acdb1b8007fe91cf.aspx) | Orlando, FL | October 28-30 |
 | [Metricon](http://www.securitymetrics.org/blog/2019/01/28/metricon-x-agenda/) | Jersey City, NJ | March 21-22 |
 | [Norcon](http://norcon.info/) | Chico, CA | TBD |
-| [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin, TX | May 8-9 Training - May 10-11 Conference |
+| [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin, TX | May 10-11 |
 | [Gartner Security & Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us) | National Harbor, MD | June 17-20 |
 | [Secure 360](https://secure360.org/secure360-twin-cities/) | Prior Lake, MN | May 14-15 |
 | [Shakacon](https://www.shakacon.org/) | Honolulu, HI | July 11 & 12, 2018 *2019 TBD* |
