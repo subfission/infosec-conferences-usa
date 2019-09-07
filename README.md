@@ -24,11 +24,10 @@
 
 This list is derived from [infosec-conferences](https://infosec-conferences.com/), [usenix](https://www.usenix.org/conferences), and other sources.
 
-
-| **Name** | **Last Known Location** | 
-| --- | --- | 
-| [ACM CCS](http://www.codaspy.org/) | Dallas, TX | 
-| [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA | 
+| **Name** | **Last Known Location** |
+| --- | --- |
+| [ACM CCS](http://www.codaspy.org/) | Dallas, TX |
+| [AppSec California](https://2019.appseccalifornia.org/) | Santa Monica, CA |
 | [AppSec USA](https://appsecusa.org/) | Washington, D.C. |
 | [Black Hat USA](https://www.blackhat.com/us-19/) | Las Vegas, NV |
 | [BSides Las Vegas](https://www.bsideslv.org/) | Las Vegas, NV |
@@ -55,12 +54,20 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity19/) | Santa Clara, CA |
 | [vBSDcon](https://www.vbsdcon.com/) | Reston, Virginia |
 
-
 ### Semi-Security Related Conferences
+
 | **Name** | **Last Known Location** |
 | --- | --- |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, CA |
-| [RustConf](http://rustconf.com/) | Portland, OR | 
+| [RustConf](http://rustconf.com/) | Portland, OR |
+
+## Linux Fest
+
+| **Name** | **Location** | **Date** |
+| --- | --- | --- |
+| [Ohio Linux Fest](https://ohiolinux.org/) ~ [Twitter Account](https://twitter.com/ohiolinux) | Hyatt Regency Columbus, OH | Nov 1-2, 2019 |
+| [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | May 31 - June 1 |
+
 ## Security BSides USA Conferences
 
 | **Name** | **Location** | **Date** | **Notes** |
@@ -182,23 +189,3 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | SANS Capital City 2020 | Washington, DC, DC, US | Aug 17, 2020 - Aug 22, 2020 |
 | SANS Virginia Beach 2020 | Virginia Beach, VA, US | Aug 24, 2020 - Sep 04, 2020 |
 | SANS San Francisco Summer 2020 | San Francisco, CA, US | Aug 24, 2020 - Aug 29, 2020 |
-
-## Semi-security Related Conferences
-
-| **Name** | **Location** | **Date** |
-| --- | --- | --- |
-| [SCALE](https://socallinuxexpo.org/) | Pasadena, CA | March 7-10 |
-| [RustConf](http://rustconf.com/) | Portland, OR | August 22-23 |
-
-## Linux Fest
-
-| **Name** | **Location** | **Date** |
-| --- | --- | --- |
-| [Ohio Linux Fest](https://ohiolinux.org/) | Columbus, OH | TBD |
-| [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX | May 31 - June 1 |
-
-## General I.T. Conferences
-
-| **Name** | **Location** | **Date** |
-| --- | --- | --- |
-| [LOCALHOST](https://127.0.0.1) | LOCATION | DATE |
