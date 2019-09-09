@@ -43,6 +43,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [Norcon](http://norcon.info/) | Chico, CA |
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin, TX |
 | [Gartner Security & Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us) | National Harbor, MD |
+| [RSA Conference USA](https://www.rsaconference.com/usa) | San Francisco, CA |
 | [Secure 360](https://secure360.org/secure360-twin-cities/) | Prior Lake, MN |
 | [Shakacon](https://www.shakacon.org/) | Honolulu, HI |
 | [ShmooCon](http://shmoocon.org/) | California |
